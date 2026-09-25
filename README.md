@@ -2,6 +2,12 @@
 
 > **Turning automotive transaction data into commercial intelligence for sales, product, customer, and market decisions.**
 
+## Live Power BI Dashboard
+
+[**View Interactive Dashboard →**](https://app.powerbi.com/view?r=eyJrIjoiYzc0YjAwYzUtZWE2Yy00NzU4LTg1YjctODU4MTJjYWM2NzgwIiwidCI6IjVhNTNlYzEyLTIzMGMtNDYxNi05ZjUxLWYyYjA4Mjg3ZDM5NyJ9)
+
+
+
 ## Project Overview
 
 The **Automotive Sales Intelligence** project analyzes historical automotive sales transaction data to understand **sales performance, product contribution, customer value, geographic performance, pricing, and deal-size dynamics**.
@@ -548,10 +554,6 @@ Rather than treating Power BI as a visualization tool alone, the project uses it
 > **Raw Data → Data Quality → Data Model → KPIs → Business Questions → Intelligence → Decision Support**
 
 ---
-
-## Live Dashboard
-
-[View Interactive Power BI Dashboard](<iframe title="Auto Intelligence" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYzc0YjAwYzUtZWE2Yy00NzU4LTg1YjctODU4MTJjYWM2NzgwIiwidCI6IjVhNTNlYzEyLTIzMGMtNDYxNi05ZjUxLWYyYjA4Mjg3ZDM5NyJ9" frameborder="0" allowFullScreen="true"></iframe>)
 
 # Author
 
