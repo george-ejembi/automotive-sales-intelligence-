@@ -549,11 +549,15 @@ Rather than treating Power BI as a visualization tool alone, the project uses it
 
 ---
 
+## Live Dashboard
+
+[View Interactive Power BI Dashboard](<iframe title="Auto Intelligence" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYzc0YjAwYzUtZWE2Yy00NzU4LTg1YjctODU4MTJjYWM2NzgwIiwidCI6IjVhNTNlYzEyLTIzMGMtNDYxNi05ZjUxLWYyYjA4Mjg3ZDM5NyJ9" frameborder="0" allowFullScreen="true"></iframe>)
+
 # Author
 
 **George E. Ejembi**
 
-**Data Analyst | Machine Learning | Business Intelligence**
+**Data Analyst | Automation Specialist | Business Intelligence**
 
 ### Core Areas
 
